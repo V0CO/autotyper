@@ -1,0 +1,52 @@
+2026-04-21 12:07:51,432 [INFO] Loading file: text.txt
+2026-04-21 12:07:51,432 [INFO] Loaded 48 characters. Delay: 0.1s per char.
+2026-04-21 12:07:51,432 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-21 12:07:54,441 [INFO] Typing started.
+2026-04-21 12:07:59,337 [INFO] Typing complete.
+2026-04-21 12:08:31,967 [INFO] Loading file: text.txt
+2026-04-21 12:08:31,968 [INFO] Loaded 48 characters. Delay: 0.1s per char.
+2026-04-21 12:08:31,968 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-21 12:08:34,978 [INFO] Typing started.
+2026-04-21 12:08:39,871 [INFO] Typing complete.
+2026-04-21 12:11:13,719 [INFO] Loading file: text.txt
+2026-04-21 12:11:13,720 [INFO] Loaded 48 characters. Delay: 0.1s per char.
+2026-04-21 12:11:13,720 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-21 12:11:18,732 [INFO] Typing started.
+2026-04-21 12:11:23,578 [INFO] Typing complete.
+2026-04-24 11:09:54,020 [INFO] Loading file: text.txt
+2026-04-24 11:09:54,021 [INFO] Loaded 385 characters. Delay: 0.1s per char.
+2026-04-24 11:09:54,021 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-24 11:09:59,031 [INFO] Typing started.
+2026-04-24 11:10:37,695 [INFO] Typing complete.
+2026-04-24 11:14:55,021 [INFO] Loading file: text.txt
+2026-04-24 11:14:55,022 [INFO] Loaded 406 characters. Delay: 0.1s per char.
+2026-04-24 11:14:55,022 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-24 11:15:00,031 [INFO] Typing started.
+2026-04-24 11:15:40,788 [INFO] Typing complete.
+2026-04-24 11:26:50,534 [INFO] Loading file: text.txt
+2026-04-24 11:26:50,534 [INFO] Loaded 860 characters. Delay: 0.1s per char.
+2026-04-24 11:26:50,534 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-24 11:26:55,545 [INFO] Typing started.
+2026-04-24 11:27:58,983 [INFO] Taking a 2.4s break after 119 words.
+2026-04-24 11:28:24,260 [INFO] Typing complete.
+2026-04-24 11:32:17,747 [INFO] Loading file: text.txt
+2026-04-24 11:32:17,748 [INFO] Loaded 216 characters. Delay: 0.1s per char.
+2026-04-24 11:32:17,748 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-24 11:32:22,759 [INFO] Typing started.
+2026-04-24 11:32:44,471 [INFO] Typing complete.
+2026-04-24 11:33:49,050 [INFO] Loading file: text.txt
+2026-04-24 11:33:49,050 [INFO] Loaded 448 characters. Delay: 0.1s per char.
+2026-04-24 11:33:49,050 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-24 11:33:54,061 [INFO] Typing started.
+2026-04-24 11:34:39,059 [INFO] Typing complete.
+2026-04-24 11:36:07,755 [INFO] Loading file: text.txt
+2026-04-24 11:36:07,755 [INFO] Loaded 263 characters. Delay: 0.1s per char.
+2026-04-24 11:36:07,755 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-24 11:36:12,765 [INFO] Typing started.
+2026-04-24 11:36:39,184 [INFO] Typing complete.
+2026-04-24 11:37:20,892 [INFO] Loading file: text.txt
+2026-04-24 11:37:20,893 [INFO] Loaded 257 characters. Delay: 0.1s per char.
+2026-04-24 11:37:20,893 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-24 11:37:25,903 [INFO] Typing started.
+2026-04-24 11:37:46,080 [WARNING] No mapping for char '’', skipping.
+2026-04-24 11:37:51,719 [INFO] Typing complete.
