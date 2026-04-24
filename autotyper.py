@@ -109,7 +109,7 @@ def type_file(path, delay=0.10):
         word_count = 0
         next_break_at = random.randint(100, 150)
         chars_since_typo = 0
-        next_typo_at = random.randint(25, 50)
+        next_typo_at = random.randint(25, 100)
         for i, char in enumerate(text):
             # Simulate typo: type 3 random letters then delete them
             if chars_since_typo >= next_typo_at:
@@ -122,7 +122,7 @@ def type_file(path, delay=0.10):
                     send_backspace(ui)
                     time.sleep(random.uniform(0.10, 0.5))
                 chars_since_typo = 0
-                next_typo_at = random.randint(25, 50)
+                next_typo_at = random.randint(25, 100)
             try:
                 send_char(ui, char)
             except Exception as ex:

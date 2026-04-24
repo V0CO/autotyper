@@ -1,3 +1,1 @@
 My hypothesis was correct. Changing the contact surface area did not really affect the friction force. All 3 averages were 0.75 N. This shows that, in this experiment, friction depended more on the box’s mass and the table surface than on the contact area.
-
-
