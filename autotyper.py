@@ -128,7 +128,7 @@ def type_file(path, delay=0.10):
             except Exception as ex:
                 log.warning(f"Error at index {i} char {repr(char)}: {ex}")
             chars_since_typo += 1
-            time.sleep(random.uniform(0.10, 0.5))
+            time.sleep(random.uniform(0.10, 0.05))
             if char == " ":
                 word_count += 1
                 if word_count >= next_break_at:

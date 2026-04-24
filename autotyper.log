@@ -50,3 +50,7 @@
 2026-04-24 11:37:25,903 [INFO] Typing started.
 2026-04-24 11:37:46,080 [WARNING] No mapping for char '’', skipping.
 2026-04-24 11:37:51,719 [INFO] Typing complete.
+2026-04-24 12:28:42,160 [INFO] Loading file: text.txt
+2026-04-24 12:28:42,160 [INFO] Loaded 259 characters. Base delay: 0.1s (will vary 0.10–0.5s per char).
+2026-04-24 12:28:42,160 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-24 12:28:47,173 [INFO] Typing started.
