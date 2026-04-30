@@ -77,3 +77,52 @@
 2026-04-24 12:31:50,528 [DEBUG] Simulating typo at char index 190
 2026-04-24 12:31:53,032 [WARNING] No mapping for char '’', skipping.
 2026-04-24 12:31:55,752 [DEBUG] Simulating typo at char index 237
+2026-04-28 10:07:42,403 [INFO] Loading file: text.txt
+2026-04-28 10:07:42,403 [INFO] Loaded 169 characters. Base delay: 0.1s (will vary 0.10–0.5s per char).
+2026-04-28 10:07:42,404 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-28 10:07:47,410 [INFO] Typing started.
+2026-04-28 10:07:52,829 [DEBUG] Simulating typo at char index 73
+2026-04-28 10:07:58,846 [DEBUG] Simulating typo at char index 126
+2026-04-28 10:08:04,029 [INFO] Typing complete.
+2026-04-28 10:33:54,581 [INFO] Loading file: text.txt
+2026-04-28 10:33:54,581 [INFO] Loaded 421 characters. Base delay: 0.1s (will vary 0.10–0.5s per char).
+2026-04-28 10:33:54,581 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-28 10:33:59,592 [INFO] Typing started.
+2026-04-28 10:34:05,143 [DEBUG] Simulating typo at char index 72
+2026-04-28 10:34:13,925 [DEBUG] Simulating typo at char index 165
+2026-04-28 10:34:20,971 [DEBUG] Simulating typo at char index 233
+2026-04-28 10:34:29,419 [DEBUG] Simulating typo at char index 318
+2026-04-28 10:34:33,188 [DEBUG] Simulating typo at char index 350
+2026-04-28 10:34:38,270 [DEBUG] Simulating typo at char index 393
+2026-04-28 10:34:41,849 [INFO] Typing complete.
+2026-04-30 09:47:43,314 [INFO] Loading file: text.txt
+2026-04-30 09:47:43,314 [INFO] Loaded 199 characters. Base delay: 0.1s (will vary 0.10–0.5s per char).
+2026-04-30 09:47:43,314 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-30 09:47:48,326 [INFO] Typing started.
+2026-04-30 09:47:52,615 [DEBUG] Simulating typo at char index 59
+2026-04-30 09:47:56,431 [DEBUG] Simulating typo at char index 89
+2026-04-30 09:48:04,917 [DEBUG] Simulating typo at char index 179
+2026-04-30 09:48:08,821 [INFO] Typing complete.
+2026-04-30 09:48:54,151 [INFO] Loading file: text.txt
+2026-04-30 09:48:54,152 [INFO] Loaded 199 characters. Base delay: 0.1s (will vary 0.10–0.5s per char).
+2026-04-30 09:48:54,152 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-30 09:48:59,164 [INFO] Typing started.
+2026-04-30 09:49:03,785 [DEBUG] Simulating typo at char index 62
+2026-04-30 09:49:08,917 [DEBUG] Simulating typo at char index 99
+2026-04-30 09:49:14,573 [DEBUG] Simulating typo at char index 159
+2026-04-30 09:49:19,516 [INFO] Typing complete.
+2026-04-30 09:49:33,992 [INFO] Loading file: text.txt
+2026-04-30 09:49:33,992 [INFO] Loaded 199 characters. Base delay: 0.1s (will vary 0.10–0.5s per char).
+2026-04-30 09:49:33,992 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-30 09:49:39,005 [INFO] Typing started.
+2026-04-30 09:49:42,404 [DEBUG] Simulating typo at char index 43
+2026-04-30 09:49:50,431 [DEBUG] Simulating typo at char index 126
+2026-04-30 09:49:57,796 [DEBUG] Simulating typo at char index 198
+2026-04-30 09:49:59,485 [INFO] Typing complete.
+2026-04-30 09:50:29,576 [INFO] Loading file: text.txt
+2026-04-30 09:50:29,576 [INFO] Loaded 199 characters. Base delay: 0.25s (will vary 0.10–0.5s per char).
+2026-04-30 09:50:29,576 [INFO] Starting in 3 seconds — switch to your target window now...
+2026-04-30 09:50:34,590 [INFO] Typing started.
+2026-04-30 09:50:38,389 [DEBUG] Simulating typo at char index 50
+2026-04-30 09:50:47,347 [DEBUG] Simulating typo at char index 146
+2026-04-30 09:50:53,312 [INFO] Typing complete.
