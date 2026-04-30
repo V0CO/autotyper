@@ -2,3 +2,7 @@ text.txt
 *.kate-swp
 *.log
 venv/
+/autotyper.log
+__pycache__/
+*.py[cod]
+.env
