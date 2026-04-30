@@ -91,7 +91,7 @@ def send_backspace(ui):
     ui.write(e.EV_KEY, e.KEY_BACKSPACE, 0)
     ui.syn()
 
-def type_file(path, delay=0.10):
+def type_file(path, delay=0.25):  # delay unused; per-char timing is random.uniform(0.1, 0.25)
     log.info(f"Loading file: {path}")
     try:
         with open(path, "r") as f:
@@ -100,7 +100,7 @@ def type_file(path, delay=0.10):
         log.error(f"File not found: {path}")
         sys.exit(1)
 
-    log.info(f"Loaded {len(text)} characters. Base delay: {delay}s (will vary 0.10–0.5s per char).")
+    log.info(f"Loaded {len(text)} characters. Delay: random 0.10–0.25s per char.")
     log.info(f"Starting in {STARTUP_DELAY} seconds — switch to your target window now...")
     time.sleep(STARTUP_DELAY)
 
@@ -117,10 +117,10 @@ def type_file(path, delay=0.10):
                 typo_chars = [random.choice("abcdefghijklmnopqrstuvwxyz") for _ in range(3)]
                 for tc in typo_chars:
                     send_char(ui, tc)
-                    time.sleep(random.uniform(0.10, 0.5))
+                    time.sleep(random.uniform(0.10, 0.25))
                 for _ in range(3):
                     send_backspace(ui)
-                    time.sleep(random.uniform(0.10, 0.5))
+                    time.sleep(random.uniform(0.10, 0.25))
                 chars_since_typo = 0
                 next_typo_at = random.randint(25, 100)
             try:
@@ -128,7 +128,7 @@ def type_file(path, delay=0.10):
             except Exception as ex:
                 log.warning(f"Error at index {i} char {repr(char)}: {ex}")
             chars_since_typo += 1
-            time.sleep(random.uniform(0.10, 0.05))
+            time.sleep(random.uniform(0.10, 0.25))
             if char == " ":
                 word_count += 1
                 if word_count >= next_break_at:
